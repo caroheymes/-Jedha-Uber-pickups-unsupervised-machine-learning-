@@ -15,6 +15,11 @@ I finally changed my mind about the plotly library which allows to create nice i
 If the figures are not displayed, you can have look at this folder where they are all saved : https://drive.google.com/drive/folders/11EFFyk1yzj-npjQv-9RbdUkLZ5WMR5Xv?usp=sharing
 I also enclosed google drive links for each figure in the notebook.
 
+For example : 
+
+![image](https://user-images.githubusercontent.com/32369680/148319738-86f620d9-c98c-41cf-afb1-6ca739b237be.png)
+* Centroids are marked my cars; Red marks are for specific venues (rooftops, bars, ...)
+
 The notebook can also be seen at this address : https://colab.research.google.com/drive/1TLXJHeDRK9oV_czLaoNm6szzMAZd44qi?usp=sharing
 
 ##What more could be done?
