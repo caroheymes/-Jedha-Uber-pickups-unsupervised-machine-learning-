@@ -20,8 +20,7 @@ For example :
 ![image](https://user-images.githubusercontent.com/32369680/148319738-86f620d9-c98c-41cf-afb1-6ca739b237be.png)
 * Centroids are marked my cars; Red marks are for specific venues (rooftops, bars, ...)
 
-The notebook can also be seen at this address : https://colab.research.google.com/drive/1TLXJHeDRK9oV_czLaoNm6szzMAZd44qi?usp=sharing
-
+The notebook can also be seen at this address : https://colab.research.google.com/drive/1CASOyIvANlEoTSDhPlQ90n3EJ3nhe1pR?usp=sharing
 ##What more could be done?
 
 By running the code several times it turned out that the parameters could vary from simple to double (...)
